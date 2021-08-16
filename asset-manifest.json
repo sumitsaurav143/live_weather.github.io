@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/live_weather.github.io/static/css/main.55abbb75.chunk.css",
+    "main.js": "/live_weather.github.io/static/js/main.c1c319d1.chunk.js",
+    "main.js.map": "/live_weather.github.io/static/js/main.c1c319d1.chunk.js.map",
+    "runtime-main.js": "/live_weather.github.io/static/js/runtime-main.53612a31.js",
+    "runtime-main.js.map": "/live_weather.github.io/static/js/runtime-main.53612a31.js.map",
+    "static/js/2.8d09c3cf.chunk.js": "/live_weather.github.io/static/js/2.8d09c3cf.chunk.js",
+    "static/js/2.8d09c3cf.chunk.js.map": "/live_weather.github.io/static/js/2.8d09c3cf.chunk.js.map",
+    "static/js/3.e8729ff3.chunk.js": "/live_weather.github.io/static/js/3.e8729ff3.chunk.js",
+    "static/js/3.e8729ff3.chunk.js.map": "/live_weather.github.io/static/js/3.e8729ff3.chunk.js.map",
+    "index.html": "/live_weather.github.io/index.html",
+    "static/css/main.55abbb75.chunk.css.map": "/live_weather.github.io/static/css/main.55abbb75.chunk.css.map",
+    "static/js/2.8d09c3cf.chunk.js.LICENSE.txt": "/live_weather.github.io/static/js/2.8d09c3cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53612a31.js",
+    "static/js/2.8d09c3cf.chunk.js",
+    "static/css/main.55abbb75.chunk.css",
+    "static/js/main.c1c319d1.chunk.js"
+  ]
+}

@@ -1,7 +1,7 @@
-#Live At
+# Live At
 https://sumitsaurav143.github.io/live_weather.github.io/
 
-##Developed By: Sumit Saurav
+## Developed By: Sumit Saurav
 
 # Getting Started with Create React App
 
